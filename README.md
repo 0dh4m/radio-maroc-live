@@ -76,6 +76,6 @@ Then open `http://localhost:3000` in your web browser.
 **Adham Cherkaoui Eddeqaqi (0dh4m)**  
 - 🌐 Portfolio: [0dh4m.github.io/portfolio](https://0dh4m.github.io/portfolio)
 - 🐙 GitHub: [@0dh4m](https://github.com/0dh4m)
-- 📧 Email: adamcherkaoui99@gmail.com
+- 📧 Email: 0dh4mm@gmail.com
 
 *Copyright © 2026 Adham Cherkaoui Eddeqaqi (0dh4m). All rights reserved.*
